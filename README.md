@@ -1,6 +1,6 @@
 # crun
 A simple bash script that allows you to easily run any csharp script conviniently.
-Adding an alias for executing this script is highly reccomended.
+To use add the contents of crun.sh in your .bash_aliases file.
 
 > Needed packages
 - mono-mcs
