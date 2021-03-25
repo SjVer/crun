@@ -7,8 +7,8 @@ To use add the contents of crun.sh in your .bash_aliases file.
 - mono
 - bc
 
-> usage \n
-`crun myscript.cs <flags and args>`
+> usage
+- `crun myscript.cs <flags and args>`
 Where 'crun' is the alias.
 Any given args will be passed to the execution of the compiled script.
 
