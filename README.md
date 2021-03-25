@@ -12,7 +12,7 @@ To use add the contents of crun.sh in your .bash_aliases file.
 Where 'crun' is the alias.
 Any given args will be passed to the execution of the compiled script.
 
-Flags:
+> Flags:
 - --keep  will preserve the .exe file after execution (deleted by default)
 - --clear will clear the terminal before execution
 - --help  will display some information
