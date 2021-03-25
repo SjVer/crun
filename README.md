@@ -13,8 +13,8 @@ Where 'crun' is the alias.
 Any given args will be passed to the execution of the compiled script.
 
 Flags:
-  --keep  will preserve the .exe file after execution (deleted by default)
-  --clear will clear the terminal before execution
-  --help  will display some information
+- --keep  will preserve the .exe file after execution (deleted by default)
+- --clear will clear the terminal before execution
+- --help  will display some information
 
 This script was made on linux
